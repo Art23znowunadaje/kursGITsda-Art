@@ -1,1 +1,3 @@
 Modyfikacja zawartości first.
+
+Druga modyfikacja.
