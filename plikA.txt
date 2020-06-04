@@ -1,1 +1,1 @@
-To jest zmieniona zawartość pliku A.
+To jest zmieniona zawartość pliku A na potrzeby stasha na testing.
